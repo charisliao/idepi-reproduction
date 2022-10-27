@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: idepi
+Version: 0.9.15
+Summary: IDentify EPItope
+Home-page: http://github.com/veg/idepi
+Author: N Lance Hepler
+Author-email: nlhepler@gmail.com
+License: GNU GPL version 3
+License-File: LICENSE
